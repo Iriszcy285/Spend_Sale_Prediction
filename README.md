@@ -2,7 +2,7 @@
 # Project Overview 
 - In this Project, I act as an AI engineer hired by a client to investigate the relationship between advertising (3 features) and sales of product.
 - I am provided the datasets of sales of  product in 200 different market and advertising budgets for the product in three different media:TV,Radio,and Newspaper.
--  I used OLS model to create linear regression model and also use different type of method : Gradient descent to recheck again.
+-  I used OLS model to create linear regression model by hand and also use different type of method : Gradient descent to recheck again.
 # Objective
 - My goal is to develop an accurate model that can be used to predict sales on the basis of 3 mediao budgets.
 # Future works
